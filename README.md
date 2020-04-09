@@ -1,4 +1,5 @@
-# Integrating Mongo Ruby API with Rails
+# Beware this is a fork of Rails 3 courses
+## Integrating Mongo Ruby API with Rails
 
 This project provides an example of integrating the MongoDB with Rails using the 
 MongoDB Ruby Driver. To implement this, we will create a model class that 
